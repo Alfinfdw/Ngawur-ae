@@ -1,11 +1,11 @@
-global.you = ['6285232604817'] 
+global.you = ['4915256954581'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
-global.rowner = ['6285232604817'] // Real Owner Bot
-global.owner = ['6285771052661'] // Owner Bot
-global.police = ['6285232604817'] // Police Bot
-global.mods = ['6285232604817']  // Want some help?
-global.prems = ['6285771052661'] // Premium user has unlimited limit
+global.rowner = ['4915256954581'] // Real Owner Bot
+global.owner = ['4915256954581'] // Owner Bot
+global.police = ['4915256954581'] // Police Bot
+global.mods = ['4915256954581']  // Want some help?
+global.prems = ['4915256954581'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini juga ganti
@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg'
 global.instagram = 'https://instagram.com/kokopangeran_'
 
-global.helper = ['6285771052661']
+global.helper = ['4915256954581']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -83,9 +83,9 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = 'KoKo-MD'
-global.author = '®ᵈʳ✞KoKo•Rey✞×፝֟͜×'
-global.wm = 'KoKo-MD | ®ᵈʳ✞KoKo•Rey✞×፝֟͜××፝֟͜×'
+global.packname = 'Niluhuwu'
+global.author = '®Niluhuwu'
+global.wm = 'Niluhuwu | ®Niluhuwu'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
